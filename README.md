@@ -18,7 +18,7 @@ By enabling `chrome://flags/#enable-force-dark` and activating "Dark Mode" in `c
 ### Technical Approach
 
 - **Force Dark Mode Flag**: Activating this flag forces Chrome to invert light colors in web content to create a dark theme dynamically.
-- **Dark Mode Setting**: Enabling dark mode in Chrome's settings complements the flag by adjusting the browser's UI elements to dark.
+- **Dark Mode Setting**: Enabling dark mode in Chrome's settings complements the flag by adjusting the browser's UI elements to dark. Additionally, it prompts websites to switch to their dark theme if they recognize and support this user preference, although many sites do not... Even if they do have a dark theme mode.
 - **Color Calibration**: By fine-tuning Chrome's theme generation algorithms, we can map the dynamic colors to match the Solarized palette accurately.
 
 ### Benefits
@@ -43,7 +43,7 @@ Pre-Concept/Pre-Development Stage Status
 
 Although the following developers had nothing to do with the creation or idea for my particular project, I am still using their code to create [Solarized Chromium](https://github.com/BubbleSquish/Solarized-Chromium).
 
-# Credits/Copyrights
+# Credits and Copywrites
 
 Chromium by Google:
 
