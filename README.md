@@ -5,11 +5,16 @@
 
 Since the introduction of the `--enable-force-dark` flag in Chrome v78 on October 22nd, 2019, the browser's capability to render dark themes has significantly improved. This feature forces dark mode on web content, enhancing the browsing experience in low-light environments and reducing eye strain.
 
-I've decided to leverage this functionality to implement the [Solarized Dark](https://ethanschoonover.com/solarized/) color scheme globally across all webpages. Solarized, created by Ethan Schoonover, is a meticulously designed color palette that offers both dark and light themes with optimal contrast and readability.
+Notes: Solarized `source code` is found at [altercation/solarized](https://github.com/altercation/solarized) rather than Ethan Schoonover's website, but the website explains the reason it was made it and how it works. See: [CIELAB](https://en.wikipedia.org/wiki/CIELAB_color_space)
+
+Goals:
+* **Togglable and Automatic Solarized Themes**: Introducing a toolbar button to dynamically switch between Solarized Light and Solarized Dark themes without needing a browser restart (tested and proven with --enable-force-dark). This feature is perfect for those who prefer not to use Solarized Dark constantly but still find white webpages glaring and straining on the eyes. This is why the project is named "Solarized Chromium" rather than "Solarized Dark Chromium".
+
+I've decided to leverage this functionality to implement the [Solarized Dark](https://ethanschoonover.com/solarized/) color scheme globally across all webpages. [Solarized](https://ethanschoonover.com/solarized/), created by Ethan Schoonover, is a meticulously designed color palette that offers both dark and light themes with optimal contrast and readability.
 
 ### The Problem with Traditional Methods
 
-Previously, achieving a global Solarized theme required the use of custom CSS user styles or extensions. These methods often led to inconsistent results, such as broken layouts or conflicting styles that degraded the user experience. Managing individual styles for each site was inefficient and time-consuming.
+Previously, achieving a global [Solarized Dark](https://ethanschoonover.com/solarized/) theme required the use of custom CSS user styles or extensions. These methods often led to inconsistent results, such as broken layouts or conflicting styles that degraded the user experience. Managing individual styles for each site was inefficient and time-consuming.
 
 ### The Solution: Harnessing Chrome's Native Capabilities
 
@@ -18,8 +23,8 @@ By enabling `chrome://flags/#enable-force-dark` and activating "Dark Mode" in `c
 ### Technical Approach
 
 - **Force Dark Mode Flag**: Activating this flag forces Chrome to invert light colors in web content to create a dark theme dynamically.
-- **Dark Mode Setting**: Enabling dark mode in Chrome's settings complements the flag by adjusting the browser's UI elements to dark. Additionally, it prompts websites to switch to their dark theme if they recognize and support this user preference, although many sites do not, even if they have a dark theme mode.
-- **Color Calibration**: By fine-tuning Chrome's theme generation algorithms, we can map the dynamic colors to match the Solarized palette accurately.
+- **Dark Mode Setting**: Enabling dark mode in Chrome's settings complements the flag by adjusting the browser's UI elements to dark. Additionally, it prompts websites to switch to their dark theme if they recognize and support this user preference, although many sites do not, even if they have a dark theme mode. Enabling the site's native dark mode theme will significantly enhance the quality of the generated [Solarized Dark](https://ethanschoonover.com/solarized/) color palette.
+- **Color Calibration**: By fine-tuning Chrome's theme generation algorithms, we can map the dynamic colors to match the [Solarized Dark](https://ethanschoonover.com/solarized/) palette accurately.
 
 ### Benefits
 
@@ -29,7 +34,7 @@ By enabling `chrome://flags/#enable-force-dark` and activating "Dark Mode" in `c
 
 ---
 
-This project aims to create a seamless and efficient way to enjoy the Solarized Dark theme universally in Chrome. By tapping into Chrome's advanced rendering capabilities, we can enhance both aesthetics and functionality.
+This project aims to create a seamless and efficient way to enjoy the [Solarized Dark](https://ethanschoonover.com/solarized/) theme universally in Chrome. By tapping into Chrome's advanced rendering capabilities, we can enhance both aesthetics and functionality.
 
 Stay tuned for updates on [Solarized Chromium](https://github.com/BubbleSquish/Solarized-Chromium).
 
@@ -45,7 +50,7 @@ Although the following developers had nothing to do with the creation or idea fo
 
 # Credits and Copywrites
 
-Chromium by Google:
+[Chromium](https://source.chromium.org/chromium) by [Google](https://about.google/):
 
 <sub><sup>Copyright 2015 The Chromium Authors</sub></sup>
 
@@ -79,7 +84,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</sub></sup>
 
 ---
 
-Solarized by Ethan Schoonover:
+[Solarized](https://ethanschoonover.com/solarized/) by [Ethan Schoonover](https://ethanschoonover.com/):
 
 <sub><sup>Copyright (c) 2011 Ethan Schoonover</sub></sup>
 
