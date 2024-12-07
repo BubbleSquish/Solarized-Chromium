@@ -48,7 +48,7 @@ Pre-Concept/Pre-Development Stage Status
 
 Although the following developers had nothing to do with the creation or idea for my particular project, I am still using their code to create [Solarized Chromium](https://github.com/BubbleSquish/Solarized-Chromium).
 
-# Credits and Copywrites
+# Credits/Copyrights
 
 [Chromium](https://source.chromium.org/chromium) by [Google](https://about.google/):
 
