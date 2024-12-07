@@ -38,7 +38,7 @@ Pre-Concept/Pre-Development Stage Status
 
 ---
 
-Although the following developers had nothing to do with the creation or idea for my particular project, i'm still using their code to create this. 
+Although the following developers had nothing to do with the creation or idea for my particular project, I am still using their code to create this.
 
 Credits and Copywrites:
 
