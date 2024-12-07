@@ -1,4 +1,5 @@
 # Solarized Chromium Enhancement
+![alt text](https://github.com/BubbleSquish/Solarized-Chromium/blob/main/Solarized%20Chromium.png)
 
 Since the introduction of the `--enable-force-dark` flag in Chrome v78 on October 22nd, 2019, the browser's capability to render dark themes has significantly improved. This feature forces dark mode on web content, enhancing the browsing experience in low-light environments and reducing eye strain.
 
