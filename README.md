@@ -1,6 +1,7 @@
 # Solarized Chromium Enhancement
-![alt text](https://github.com/BubbleSquish/Solarized-Chromium/blob/main/Solarized%20Chromium.png)
-
+<p align="center">
+    <img width="200" src="https://github.com/BubbleSquish/Solarized-Chromium/blob/main/Solarized%20Chromium.png" alt="Solarized Chromium Logo">
+</p>
 Since the introduction of the `--enable-force-dark` flag in Chrome v78 on October 22nd, 2019, the browser's capability to render dark themes has significantly improved. This feature forces dark mode on web content, enhancing the browsing experience in low-light environments and reducing eye strain.
 
 I've decided to leverage this functionality to implement the [Solarized Dark](https://ethanschoonover.com/solarized/) color scheme globally across all webpages. Solarized, created by Ethan Schoonover, is a meticulously designed color palette that offers both dark and light themes with optimal contrast and readability.
