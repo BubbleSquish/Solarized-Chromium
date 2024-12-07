@@ -5,7 +5,7 @@
 
 Since the introduction of the `--enable-force-dark` flag in Chrome v78 on October 22nd, 2019, the browser's capability to render dark themes has significantly improved. This feature forces dark mode on web content, enhancing the browsing experience in low-light environments and reducing eye strain.
 
-Notes: Solarized `source code` is found at [altercation/solarized](https://github.com/altercation/solarized) rather than Ethan Schoonover's website, but the website explains the reason it was made it and how it works. See: [CIELAB](https://en.wikipedia.org/wiki/CIELAB_color_space)
+Notes: Solarized `source code` is found at [altercation/solarized](https://github.com/altercation/solarized) rather than Ethan Schoonover's website, but his website explains the reason why it was made it and how it works. See: [CIELAB](https://en.wikipedia.org/wiki/CIELAB_color_space)
 
 Goals:
 * **Togglable and Automatic Solarized Themes**: Introducing a toolbar button to dynamically switch between Solarized Light and Solarized Dark themes without needing a browser restart (tested and proven with `--enable-force-dark`). This feature is perfect for those who prefer not to use Solarized Dark constantly but still find white webpages glaring and straining on the eyes. This is why the project is named "Solarized Chromium" rather than "Solarized Dark Chromium".
