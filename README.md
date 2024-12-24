@@ -1,6 +1,4 @@
-# Solarized Chromium Enhancement Project 
-
-# [Conecept Stage / Pre-Development]
+# Solarized Chromium Enhancement Project [Conecept Stage / Pre-Development]
 
 <p align="center">
     <img width="200" src="https://github.com/BubbleSquish/Solarized-Chromium/blob/main/Solarized%20Chromium.png" alt="Solarized Chromium Logo">
