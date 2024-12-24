@@ -42,12 +42,6 @@ Stay tuned for updates on [Solarized Chromium](https://github.com/BubbleSquish/S
 
 ---
 
-Pre-Concept/Pre-Development Stage Status
-
-*In progress of loading the initial loading phase of conceptualizing the programmatic source and integration for enhanced holographics.*
-
----
-
 Although the following developers had nothing to do with the creation or idea for my particular project, I am still using their code to create [Solarized Chromium](https://github.com/BubbleSquish/Solarized-Chromium).
 
 # Credits/Copyrights
