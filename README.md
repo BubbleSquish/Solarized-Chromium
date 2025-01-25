@@ -8,10 +8,12 @@ Since the introduction of the `--enable-force-dark` flag in Chrome v78 on Octobe
 
 Notes: 
 * Solarized `source code` is found at [altercation/solarized](https://github.com/altercation/solarized) rather than Ethan Schoonover's website, but his website explains the reason why it was made it and how it works, see: [CIELAB](https://en.wikipedia.org/wiki/CIELAB_color_space)
-* My reasons on why Solarized color pallete out of literally anything else actually asthetically pleasing:
+
+### My reasons on why Solarized color pallete out of literally anything else actually asthetically pleasing:
+
 - Well, I think it looks cool
 - Many people know about [Solarized Dark](https://ethanschoonover.com/solarized/)
-- It's more about readability and reducing eyestrain I don't personally believe Ethan chose this specific range of colors purely due to asthetics... You might want to check his website for more information
+- It's more about **readability and reducing eyestrain**. I don't personally believe Ethan chose this specific range of colors purely due to asthetics... You might want to check his website for more information
 - I think there's some sort of spirtual agenda to destroy your vision and make you more stressed/anxious/fearful
 - I'm going back to the third reason, and we'll figure out the fourth reason together. I don't remember where I read it, but in my opinion, it's more about readability and the forces of darkness and light than being asthetically pleasing. I'd it be universabily compatible than have to fiddle with a pallete that has no chance in Hell being accepted by `your web browser` 
 
