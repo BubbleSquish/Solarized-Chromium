@@ -43,6 +43,33 @@ By enabling `chrome://flags/#enable-force-dark` and activating "Dark Mode" in `c
 - **Consistency**: Achieve a uniform look and feel across all websites without manual intervention.
 - **Performance**: Reduce the overhead introduced by third-party extensions and custom user styles.
 - **Simplicity**: Eliminate the need for managing individual stylesheets or relying on external tools.
+- **EYE STRAIN**: Reduce the amount of harmful light destryoing your vision from your monitor no matter if you're in light mode or dark mode because of the Solarized color scheme.
+
+Blorpf's Take on Blue Light Filters:
+
+Blue light filter software overlays don’t actually turn off blue light; they just shift colors around. The harmful blue light emitted from your monitor’s LED pixels? Yeah, that’s still blasting through your eyeballs with the same intensity, just disguised as “warm” colors like red or orange. It might make you feel at ease, but for me? Red light at night doesn’t chill me out—it powers me up. If my screen starts glowing red at 11 PM, I’m not relaxing—I’m gearing up to become Doomslayer, about to fight Satan through the power of prayer.
+
+Recommendations for Eye Care:
+
+-20-20-20 Rule
+
+Every 20 minutes, look at something 20 feet away for 20 seconds. (Or just close your eyes and scream quietly inside.)
+
+- Sunglasses Indoors
+
+Yeah, it looks goofy, but tinted lenses can help cut down on blue light and glare. Bonus: You’ll also look like an undercover agent.
+
+- Privacy Filters with Blue Light Protection
+
+Those clip-on privacy screens you see at banks? Get one, but make sure it’s got blue light filtering tech baked in. Not those adhesive ones though—seriously, who thought gluing stuff to screens was a good idea?
+
+- Future Tech (aka: My Master Plan)
+
+When I develop my own eye-saving software/hardware hybrid, it’ll do what these overlays pretend to do—actually block harmful light radiation at the source. Maybe integrate it into Chromium or whatever you’re working with. I’ll document every algorithm tweak and line of code so you can modify it for your needs.
+
+- Think About It
+
+Do you see the world through your eyes or through your mind? Are our spirits just becoming farsighted from years of staring at eye-scorching screens? Maybe it’s time to actually care about our vision before we end up living like bats in the dark.
 
 ---
 
