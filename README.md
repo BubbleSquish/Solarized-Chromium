@@ -51,7 +51,7 @@ Blue light filter software overlays don’t actually turn off blue light; they j
 
 Recommendations for Eye Care:
 
--20-20-20 Rule
+- 20-20-20 Rule
 
 Every 20 minutes, look at something 20 feet away for 20 seconds. (Or just close your eyes and scream quietly inside.)
 
