@@ -65,7 +65,7 @@ Those clip-on privacy screens you see at banks? Get one, but make sure it’s go
 
 - Future Tech (aka: My Master Plan)
 
-When I develop my own eye-saving software/hardware hybrid, it’ll do what these overlays pretend to do—actually block harmful light radiation at the source. Maybe integrate it into Chromium or whatever you’re working with. I’ll document every algorithm tweak and line of code so you can modify it for your needs.
+This project. Maybe integrate it into Chromium or whatever you’re working with. I’ll document every algorithm tweak and line of code so you can modify it for your needs.
 
 - Think About It
 
