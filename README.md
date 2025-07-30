@@ -17,7 +17,7 @@ Notes:
 - I think there's some sort of spirtual agenda to destroy your vision and make you more stressed/anxious/fearful
 - I'm going back to the third reason, and we'll figure out the fourth reason together. I don't remember where I read it, but in my opinion, it's more about readability and the forces of darkness and light... Not being asthetically pleasing. I'd rather it to be universabily compatible and accepted rather than having to fiddle with a pallete that has no chance in Hell being accepted by `your web browser`
 - I'm resorting to scare tactics. Photophobia. However... For me, it's just this screen really hurts my eyes and I'd like to adjust my headache levels
-- [Ophanim - Biblically Accurate Angel]([https://www.youtube.com/watch?v=2qdmPzc4v3c/)
+- [Ophanim - Biblically Accurate Angel](https://www.youtube.com/watch?v=2qdmPzc4v3c/)
 
 Goal:
 * **Togglable and Automatic Solarized Themes**: Introducing a toolbar button to dynamically switch between Solarized Light and Solarized Dark themes without needing a browser restart (tested and proven with `--enable-force-dark`). This feature is perfect for those who prefer not to use Solarized Dark constantly but still find white webpages glaring and straining on the eyes. This is why the project is named "Solarized Chromium" rather than "Solarized Dark Chromium".
